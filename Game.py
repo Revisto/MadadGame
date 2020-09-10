@@ -10,4 +10,4 @@ def BotWeb():
 
 if __name__== '__main__':
     #app.send_static_file("index.html")
-    app.run(debug=True,port=5501)
+    app.run(debug=True,port=1230)
